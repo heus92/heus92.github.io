@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Internship on Welcome to the sale</title>
+    <link>https://heus92.github.io/categories/internship/</link>
+    <description>Recent content in Internship on Welcome to the sale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Feb 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://heus92.github.io/categories/internship/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>✔️ Withings - ME intern Steel HR</title>
+      <link>https://heus92.github.io/projects/withings/</link>
+      <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://heus92.github.io/projects/withings/</guid>
+      <description>card 6 months mechanical engineering internship @Withings to design Steel HR smart watch case and wristband.
+expand During my internship @Withings&amp;hellip;Nokia Health I had the chance to launch my own product!! Incredible experience where I was the one designing both wristbands for both models and the big watch case. I had the chance to travel to China and set up the assembly line with local partners.</description>
+    </item>
+    
+    <item>
+      <title>✔️ Dreem - ME Intern Headband</title>
+      <link>https://heus92.github.io/projects/dreem/</link>
+      <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://heus92.github.io/projects/dreem/</guid>
+      <description>card 6 months mechanical engineering internship @Dreem. Responsible for all in-house prototyping and part of technical solution design for industrialization.
+expand Rythm is a french neuroscience startup which aim is to help people sleep better. Employee #32. I was in charge of all prototyping and assisting the head of mechanical engineering in the product design before industrialization.</description>
+    </item>
+    
+  </channel>
+</rss>

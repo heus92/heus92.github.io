@@ -1,0 +1,20 @@
+/*
+#0B2363 blue
+#FD3366 pink
+
+#001514
+#FFFFFF
+#9F84BD
+*/
+
+body {
+    background-color: #0B2363;
+}
+
+h1, h2{
+    color: #FD3366;
+}
+
+.navigation a, .navigation span {
+        color: #FFFFFF;
+}
