@@ -6,18 +6,19 @@
     <description>Recent content in Posts on Welcome to the Sale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://welcometothe.sale/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dummy</title>
-      <link>https://welcometothe.sale/posts/lol/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Product Management Starter Pack</title>
+      <link>https://welcometothe.sale/posts/pm-starter-pack/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/posts/lol/</guid>
-      <description>coucou</description>
+      <guid>https://welcometothe.sale/posts/pm-starter-pack/</guid>
+      <description>(disclaimer) This blog post comes from an email I&amp;rsquo;ve sent to a couple of my friends who were looking into product management. After many people shared it I though it could be useful to random people who wanted to get to know what PM was about. It would need to be updated and it&amp;rsquo;s in French. I&amp;rsquo;ll update that asap I promise 🤞
+Ce que j&amp;rsquo;ai fait perso ce n&amp;rsquo;est absolument pas une vérité absolue, c&amp;rsquo;est essayer de me créer une culture produit sur tout ce qui passe sous mon nez.</description>
     </item>
     
   </channel>
