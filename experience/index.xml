@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to the Sale</title>
-    <link>https://welcometothe.sale/</link>
-    <description>Recent content on Welcome to the Sale</description>
+    <title>Experiences on Welcome to the Sale</title>
+    <link>https://welcometothe.sale/experience/</link>
+    <description>Recent content in Experiences on Welcome to the Sale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://welcometothe.sale/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://welcometothe.sale/experience/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>I know it might seem a bit weird to imagine a freelance product manager. Of course for pure tech,product oriented companies such a position often does not make sense but not all companies are mature tech startups 😅
 This is why I&amp;rsquo;m looking at making an impact along side two kind of teams
  companies with a low-tech core business looking into entering the digital work 🌱 small motivated and ambitious small teams trying to shape their first product 🚀  In both cases the aim is to reach out in the best possible way to your first users and maximize for impact and that&amp;rsquo;s where things get interesting!</description>
-    </item>
-    
-    <item>
-      <title>Product Management Starter Pack</title>
-      <link>https://welcometothe.sale/posts/pm-starter-pack/</link>
-      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://welcometothe.sale/posts/pm-starter-pack/</guid>
-      <description>(disclaimer) This blog post comes from an email I&amp;rsquo;ve sent to a couple of my friends who were looking into product management. After many people shared it I though it could be useful to random people who wanted to get to know what PM was about. It would need to be updated and it&amp;rsquo;s in French. I&amp;rsquo;ll update that asap I promise 🤞
-Ce que j&amp;rsquo;ai fait perso ce n&amp;rsquo;est absolument pas une vérité absolue, c&amp;rsquo;est essayer de me créer une culture produit sur tout ce qui passe sous mon nez.</description>
     </item>
     
     <item>
@@ -96,26 +86,6 @@ French Touch Withings might be one of France&amp;rsquo;s finest companies. Found
       <description>Status Internship ✅ September 2015 - February 2016
 Dream Dreem Rythm&amp;rsquo;s @Dreem sleep headband aims at helping people sleep better by increase deep sleep duration through noise stimulation. In XXX 2018 they released their third iteration of the headband. I had the opportunity to work on the beta version that was about to be release at the time.
 During my 6 months internship I worked closely with the head of Mechanical Engineering on many key subjects such as</description>
-    </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://welcometothe.sale/about-old/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://welcometothe.sale/about-old/</guid>
-      <description>WTF 👋 My name is Rashad but you already knew that, didn&amp;rsquo;t you? I&amp;rsquo;m in the biggest pivot of my professional life from launching my own startup to joining a new incredible team. I&amp;rsquo;m very social, team-focused and goal-oriented. I believe I&amp;rsquo;m demanding towards myself and others. I want to make a real impact and dive 100% into my (our) next adventure.
-On the other side, I&amp;rsquo;m also a positive and optimistic person who loves spending good moments with my loved ones.</description>
-    </item>
-    
-    <item>
-      <title>About Me 👋</title>
-      <link>https://welcometothe.sale/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://welcometothe.sale/about/</guid>
-      <description>My name is Rashad but you already knew that, didn&amp;rsquo;t you? Basically I&amp;rsquo;m a product addict. I love digging around into all sort of fun and incredible products I can find. From the ones I use everyday to my friends&amp;rsquo; startup projects or even low tech random hardware from the 90s&amp;rsquo; I find on the streets, every product has something to teach us so let&amp;rsquo;s find out!
-I&amp;rsquo;m always eager to collaborate with new people on new (or old) subjects to deliver great value to people in the world.</description>
     </item>
     
   </channel>

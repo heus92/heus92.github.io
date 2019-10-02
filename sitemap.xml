@@ -3,38 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://welcometothe.sale/experience/product-freelance/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://welcometothe.sale/posts/pm-starter-pack/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://welcometothe.sale/projects/heetch/</loc>
+    <loc>https://welcometothe.sale/experience/heetch/</loc>
     <lastmod>2018-01-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://welcometothe.sale/projects/rapsodie/</loc>
+    <loc>https://welcometothe.sale/experience/rapsodie/</loc>
     <lastmod>2017-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://welcometothe.sale/projects/deepdives/</loc>
+    <loc>https://welcometothe.sale/experience/deepdives/</loc>
     <lastmod>2017-03-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://welcometothe.sale/projects/nabu/</loc>
+    <loc>https://welcometothe.sale/experience/nabu/</loc>
     <lastmod>2016-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://welcometothe.sale/projects/withings/</loc>
+    <loc>https://welcometothe.sale/experience/withings/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://welcometothe.sale/projects/dreem/</loc>
+    <loc>https://welcometothe.sale/experience/dreem/</loc>
     <lastmod>2015-09-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/about-old/</loc>
   </url>
   
   <url>
@@ -43,6 +52,12 @@
   
   <url>
     <loc>https://welcometothe.sale/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/experience/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -83,12 +98,6 @@
   </url>
   
   <url>
-    <loc>https://welcometothe.sale/projects/</loc>
-    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://welcometothe.sale/tags/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -96,7 +105,7 @@
   
   <url>
     <loc>https://welcometothe.sale/</loc>
-    <lastmod>2019-03-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
