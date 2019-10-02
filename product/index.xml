@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Products on Welcome to the Sale</title>
+    <link>https://welcometothe.sale/product/</link>
+    <description>Recent content in Products on Welcome to the Sale</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://welcometothe.sale/product/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>🌠 My Product Vision</title>
+      <link>https://welcometothe.sale/product/product-vision/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://welcometothe.sale/product/product-vision/</guid>
+      <description>There are a lot of people talking about product out there. How do you know I&amp;rsquo;m the one you need for your amazing secret project? Well let me present you my product vision.</description>
+    </item>
+    
+    <item>
+      <title>👶 Product Management Starter Pack</title>
+      <link>https://welcometothe.sale/product/pm-starter-pack/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://welcometothe.sale/product/pm-starter-pack/</guid>
+      <description>(disclaimer) This blog post comes from an email I&amp;rsquo;ve sent to a couple of my friends who were looking into product management. After many people shared it I though it could be useful to random people who wanted to get to know what PM was about. It would need to be updated and it&amp;rsquo;s in French. I&amp;rsquo;ll update that asap I promise 🤞
+Ce que j&amp;rsquo;ai fait perso ce n&amp;rsquo;est absolument pas une vérité absolue, c&amp;rsquo;est essayer de me créer une culture produit sur tout ce qui passe sous mon nez.</description>
+    </item>
+    
+  </channel>
+</rss>
