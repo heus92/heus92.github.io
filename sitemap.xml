@@ -3,6 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://welcometothe.sale/articles/</loc>
+    <lastmod>2019-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/</loc>
+    <lastmod>2019-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/articles/product-report/</loc>
+    <lastmod>2019-10-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/experiences/</loc>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://welcometothe.sale/articles/product-vision/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
@@ -38,6 +58,41 @@
   </url>
   
   <url>
+    <loc>https://welcometothe.sale/categories/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/tags/hardware/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/categories/internship/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/tags/internship/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/tags/mechanical-engineering/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/categories/mechanical-engineering/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/tags/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://welcometothe.sale/experiences/withings/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url>
@@ -49,65 +104,6 @@
   
   <url>
     <loc>https://welcometothe.sale/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://welcometothe.sale/articles/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://welcometothe.sale/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://welcometothe.sale/experiences/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://welcometothe.sale/tags/hardware/</loc>
-    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://welcometothe.sale/tags/internship/</loc>
-    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://welcometothe.sale/categories/internship/</loc>
-    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://welcometothe.sale/tags/mechanical-engineering/</loc>
-    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://welcometothe.sale/categories/mechanical-engineering/</loc>
-    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://welcometothe.sale/tags/</loc>
-    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://welcometothe.sale/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
 </urlset>
