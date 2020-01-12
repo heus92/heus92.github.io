@@ -6,19 +6,20 @@
     <description>Recent content on Welcome to the Sale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://welcometothe.sale/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>🧪 Your Product Report</title>
-      <link>https://welcometothe.sale/articles/product-report/</link>
-      <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
+      <title>💾 Data Product</title>
+      <link>https://welcometothe.sale/articles/data-product/</link>
+      <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/articles/product-report/</guid>
-      <description>I am trying a brand new format regarding access to a product expertise. I want to offer you a free product report and analysis along with some feedbacks on whatever you&amp;rsquo;re working on.
-The Process I&amp;rsquo;ll test out the product you send me and provide you with a report on how well it&amp;rsquo;s performing product-wise. Among others, I&amp;rsquo;ll look at the overall quality of the product, how well it&amp;rsquo;s solving the issue it&amp;rsquo;s supposed to solve, how seamless the user experience is, and provide you with some improvement suggestions.</description>
+      <guid>https://welcometothe.sale/articles/data-product/</guid>
+      <description>I had the opportunity to give a talk at TAK about how product manager should think about data.
+👉You can find the presentation here 👈 Addtional Resources I also took the liberty to add some addtional resources to pursue the reflexions and subjects mentioned in the presentation
+Datalake  https://cloud.google.com/solutions/build-a-data-lake-on-gcp  Analytics  https://segment.com/academy/ https://segment.com/academy/collecting-data/how-to-create-a-tracking-plan/ https://segment.com/academy/intro/ https://www.metabase.com/blog/how-to-ruin-your-life-with-data/index.html https://www.youtube.com/watch?v=y5OkEajabr8&amp;amp;t=2s https://www.lemonde.fr/les-decodeurs/article/2019/01/02/correlation-ou-causalite-brillez-  Dataviz  https://www.d3-graph-gallery.com/ https://www.reddit.com/r/dataisbeautiful/ (exploration) https://www.amazon.fr/Knowledge-Beautiful-Impossible-Invisible-Connections-Visualized/dp/0062188224/ https://www.amazon.fr/Information-Beautiful-New-David-McCandless/dp/0007492898/ en-societe-avec-notre-generateur-aleatoire-de-comparaisons-absurdes_5404286_4355770.html https://www.reddit.com/r/dataisbeautiful/comments/83o8h9/correlation_vs_causation_number_of_ikea_stores_vs/ http://www.</description>
     </item>
     
     <item>
