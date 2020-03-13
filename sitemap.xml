@@ -19,12 +19,7 @@
   
   <url>
     <loc>https://welcometothe.sale/experiences/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://welcometothe.sale/experiences/hacienda/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -33,12 +28,12 @@
   </url>
   
   <url>
-    <loc>https://welcometothe.sale/experiences/product-freelance/</loc>
+    <loc>https://welcometothe.sale/experiences/product-manager-freelance/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://welcometothe.sale/articles/pm-starter-pack/</loc>
+    <loc>https://welcometothe.sale/articles/product-management-101/</loc>
     <lastmod>2019-03-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -73,22 +68,22 @@
   </url>
   
   <url>
-    <loc>https://welcometothe.sale/tags/internship/</loc>
-    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://welcometothe.sale/categories/internship/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://welcometothe.sale/tags/mechanical-engineering/</loc>
+    <loc>https://welcometothe.sale/tags/internship/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://welcometothe.sale/categories/mechanical-engineering/</loc>
+    <lastmod>2016-02-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://welcometothe.sale/tags/mechanical-engineering/</loc>
     <lastmod>2016-02-16T00:00:00+00:00</lastmod>
   </url>
   
