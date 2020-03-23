@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome to the Sale</title>
-    <link>https://welcometothe.sale/</link>
+    <link>https://rashad.pm/</link>
     <description>Recent content on Welcome to the Sale</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://welcometothe.sale/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rashad.pm/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>💾 Data Product</title>
-      <link>https://welcometothe.sale/articles/data-product/</link>
+      <link>https://rashad.pm/articles/data-product/</link>
       <pubDate>Sun, 12 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/articles/data-product/</guid>
+      <guid>https://rashad.pm/articles/data-product/</guid>
       <description>In January 2020, I had the opportunity to give a talk at TAK about how product managers should think about and use data as a part of their daily workflow.
 👉You can find the presentation here 👈 Addtional Resources I also took the liberty to add some addtional resources to pursue the reflexions and subjects mentioned in the presentation
 Datalake  https://cloud.google.com/solutions/build-a-data-lake-on-gcp  Analytics  https://segment.com/academy/ https://segment.com/academy/collecting-data/how-to-create-a-tracking-plan/ https://segment.com/academy/intro/ https://www.metabase.com/blog/how-to-ruin-your-life-with-data/index.html https://www.</description>
@@ -24,20 +24,20 @@ Datalake  https://cloud.google.com/solutions/build-a-data-lake-on-gcp  Analytics
     
     <item>
       <title>🌠 A Product Vision</title>
-      <link>https://welcometothe.sale/articles/product-vision/</link>
+      <link>https://rashad.pm/articles/product-vision/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/articles/product-vision/</guid>
+      <guid>https://rashad.pm/articles/product-vision/</guid>
       <description>There are a lot of people talking about product out there. Like a lot. How do you know I&amp;rsquo;m the one you need for your amazing secret project? Well let me introduce you to my product vision.
 What the f*** is &amp;ldquo;product&amp;rdquo; anyway? Basically anything you&amp;rsquo;re serving your users is product-related. The obvious part is made of UX and UI design of course but not only, your tech stack and the way you use your data (if any) change make go from a meh product to a great product!</description>
     </item>
     
     <item>
       <title>👾 Freelance Product</title>
-      <link>https://welcometothe.sale/experiences/product-manager-freelance/</link>
+      <link>https://rashad.pm/experiences/product-manager-freelance/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/experiences/product-manager-freelance/</guid>
+      <guid>https://rashad.pm/experiences/product-manager-freelance/</guid>
       <description>I know it might seem a bit weird to imagine a freelance product manager. Of course for product oriented companies such position often does not make sense but not all companies are mature tech startups.
 Want to know more about my pre-freelance life? Check out my LinkedIn profile
 I&amp;rsquo;m looking at making an impact along side two kind of teams
@@ -46,20 +46,20 @@ I&amp;rsquo;m looking at making an impact along side two kind of teams
     
     <item>
       <title>👶 Product Management Starter Pack</title>
-      <link>https://welcometothe.sale/articles/product-management-101/</link>
+      <link>https://rashad.pm/articles/product-management-101/</link>
       <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/articles/product-management-101/</guid>
+      <guid>https://rashad.pm/articles/product-management-101/</guid>
       <description>(disclaimer) This blog post comes from an email I&amp;rsquo;ve sent to a couple of my friends who were looking into product management. After many people shared it I though it could be useful to random people who wanted to get to know what PM was about. It would need to be updated and it&amp;rsquo;s in French. I&amp;rsquo;ll update that asap I promise 🤞
 Ce que j&amp;rsquo;ai fait perso ce n&amp;rsquo;est absolument pas une vérité absolue, c&amp;rsquo;est essayer de me créer une culture produit sur tout ce qui passe sous mon nez.</description>
     </item>
     
     <item>
       <title>🚗 Product Manager @Heetch</title>
-      <link>https://welcometothe.sale/experiences/heetch/</link>
+      <link>https://rashad.pm/experiences/heetch/</link>
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/experiences/heetch/</guid>
+      <guid>https://rashad.pm/experiences/heetch/</guid>
       <description>Status Permanent contract ✅ January 2018 - September 2019
 Started from the bottom&amp;hellip; Heetch is one of Uber&amp;rsquo;s French competitor. Basically the app offers a more social and fun experience than what Uber can offer with a very premium, high end service.
 I joined in January 2018 as a Junior Ride Product Manager with Walid Ellec as a mentor. During those first months I shipped my first user facing features and started getting ahead of what being a PM meant.</description>
@@ -67,10 +67,10 @@ I joined in January 2018 as a Junior Ride Product Manager with Walid Ellec as a 
     
     <item>
       <title>🌱 Co-founder @Rapsodie</title>
-      <link>https://welcometothe.sale/experiences/rapsodie/</link>
+      <link>https://rashad.pm/experiences/rapsodie/</link>
       <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/experiences/rapsodie/</guid>
+      <guid>https://rashad.pm/experiences/rapsodie/</guid>
       <description>Status Side project 🚧 November 2017 - &amp;hellip;
 Intro I&amp;rsquo;d say that project mixes two of the most important things I&amp;rsquo;ve encountered in my whole life: rap music and education. For those of you who already read a bit about my previous Deepdives project this is basically the personal spinoff I made from it. For the others, let&amp;rsquo;s meet below.
 Inside out What feels more natural than trying to replicate something we already made in the past for others?</description>
@@ -78,10 +78,10 @@ Inside out What feels more natural than trying to replicate something we already
     
     <item>
       <title>🌱 Co-founder @Deepdives</title>
-      <link>https://welcometothe.sale/experiences/deepdives/</link>
+      <link>https://rashad.pm/experiences/deepdives/</link>
       <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/experiences/deepdives/</guid>
+      <guid>https://rashad.pm/experiences/deepdives/</guid>
       <description>Status Personal Project ☠️ February 2017 - September 2017
 Intro This is part 2 (and last) of my entrepreneurial adventure with the amazing Charlotte Moreau. The first part is our attempt at launching Nabu&amp;rsquo;s sign language translation wristband.
 After Class This project&amp;rsquo;s objective was pretty simple: how could one keep learning about new subjects without being feeling old-school-taught or bored?
@@ -90,10 +90,10 @@ We started with a first iteration as a messenger bot called Charade (try it out 
     
     <item>
       <title>🌱 Co-founder @Nabu</title>
-      <link>https://welcometothe.sale/experiences/nabu/</link>
+      <link>https://rashad.pm/experiences/nabu/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/experiences/nabu/</guid>
+      <guid>https://rashad.pm/experiences/nabu/</guid>
       <description>Status Personal project ☠️ August 2016 - February 2017
 Intro This article is the first part of a 2 article-long adventure with the amazing Charlotte Moreau. I will write a dedicated article about the human adventure itself but let&amp;rsquo;s focus on the product and achievements for now.
 Go Bears! When I left Paris for UC Berkeley (with a bricked computed) I never knew the &amp;ldquo;Jedi wristband&amp;rdquo; project I was bringing with me would follow such an amazing path.</description>
@@ -101,20 +101,20 @@ Go Bears! When I left Paris for UC Berkeley (with a bricked computed) I never kn
     
     <item>
       <title>🔧 Mechanical Engineering intern @Withings</title>
-      <link>https://welcometothe.sale/experiences/withings/</link>
+      <link>https://rashad.pm/experiences/withings/</link>
       <pubDate>Tue, 16 Feb 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/experiences/withings/</guid>
+      <guid>https://rashad.pm/experiences/withings/</guid>
       <description>Status Internship ✅ February 2016 - August 2016
 French Touch Withings might be one of France&amp;rsquo;s finest companies. Founded by serial entrepreneur Eric Carreel (who also founded Inventel, Scuplteo, Zoov&amp;hellip;) their products have always pioneered in the health connected devices field. Their historic connected scale has enlightened the way for many more successful products such as watches, sleep monitors etc&amp;hellip; During my internship I had the opportunity to work on the Steel HR connected smart watch along with Manon Navellou.</description>
     </item>
     
     <item>
       <title>🔧 Mechanical Engineering intern @Dreem</title>
-      <link>https://welcometothe.sale/experiences/dreem/</link>
+      <link>https://rashad.pm/experiences/dreem/</link>
       <pubDate>Mon, 21 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/experiences/dreem/</guid>
+      <guid>https://rashad.pm/experiences/dreem/</guid>
       <description>Status Internship ✅ September 2015 - February 2016
 Dream Dreem Rythm&amp;rsquo;s @Dreem sleep headband aims at helping people sleep better by increase deep sleep duration through noise stimulation. In XXX 2018 they released their third iteration of the headband. I had the opportunity to work on the beta version that was about to be release at the time.
 During my 6 months internship I worked closely with the head of Mechanical Engineering on many key subjects such as</description>
@@ -122,10 +122,10 @@ During my 6 months internship I worked closely with the head of Mechanical Engin
     
     <item>
       <title>About Me 👋</title>
-      <link>https://welcometothe.sale/about/</link>
+      <link>https://rashad.pm/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://welcometothe.sale/about/</guid>
+      <guid>https://rashad.pm/about/</guid>
       <description>My name is Rashad but you already knew that, didn&amp;rsquo;t you? Basically I&amp;rsquo;m a product addict. I love digging around into all sort of fun and incredible products I can find. From the ones I use everyday to my friends&amp;rsquo; startup projects or even low tech random hardware from the 90s&amp;rsquo; I find on the streets, every product has something to teach us so let&amp;rsquo;s find out!
 I&amp;rsquo;m always eager to collaborate with new people on new (or old) subjects to deliver great value to people in the world.</description>
     </item>
